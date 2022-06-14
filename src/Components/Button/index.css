@@ -1,0 +1,15 @@
+.button {
+    background-color: bisque;
+    border: 10px;
+    padding: auto;
+    margin: 10px;
+    width: 30px;
+    height: 20px;
+}
+
+
+
+.button-container {
+    display: flex;
+
+}
